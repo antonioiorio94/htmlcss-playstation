@@ -1,4 +1,13 @@
 .logo-sony
 {width: 5rem;}
 
-           
+.jumbo-bg{
+    background-image: url(../img/jumbo-bg.png);
+    background-size:cover;
+    background-position: center;
+    height: 40rem;  
+}
+
+.logo-returnal{
+    width: 15rem;
+}
