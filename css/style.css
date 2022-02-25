@@ -41,6 +41,11 @@ footer li{
 
 /*hover*/
 
+.card:hover{
+    transform: scale(1.5);
+}
+
+
 .opacity{
     opacity: 50%;
 }
@@ -55,3 +60,6 @@ footer li{
     height: 3px;
 }
 
+.bar:hover{
+    display: block;
+}
