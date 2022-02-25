@@ -2,6 +2,9 @@
     width: 100%;
 }
 
+.width50{
+    width: 100px;
+}
 .height100{
     height: 100%;
 }
@@ -26,3 +29,29 @@
 .logo-returnal{
     width: 15rem;
 }
+
+footer a{
+    color: white;
+    text-decoration: none;
+}
+
+footer li{
+    list-style-type: none;
+}
+
+/*hover*/
+
+.opacity{
+    opacity: 50%;
+}
+
+.opacity:hover{
+    opacity: 100%;
+}
+
+
+
+.bar{
+    height: 3px;
+}
+
