@@ -42,7 +42,7 @@ footer li{
 /*hover*/
 
 .card:hover{
-    transform: scale(1.5);
+    transform: scale(1.2);
 }
 
 
@@ -60,6 +60,11 @@ footer li{
     height: 3px;
 }
 
-.bar:hover{
-    display: block;
+.acc-img .bar:hover{
+    display: inline-block!important;
 }
+
+
+/*[class*="col"] {
+    border:1px dashed red; 
+}*/
