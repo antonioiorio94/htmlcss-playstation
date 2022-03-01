@@ -55,16 +55,14 @@ footer li{
 }
 
 
-
 .bar{
     height: 3px;
 }
 
-.acc-img .bar:hover{
-    display: inline-block!important;
+
+.link:hover .bar{
+    display: block!important;
 }
-
-
 /*[class*="col"] {
     border:1px dashed red; 
 }*/
